@@ -1,4 +1,15 @@
 import pandas as pd
+import json
+from pymongo import MongoClient
+
+# Configuration de la connexion MongoDB
+MONGO_URI = "mongodb://admin:securepassword@localhost:27017/"
+DB_NAME = "opendatalens"
+COLLECTION_NAMES = ("commerce", "evenement")
+
+# Connexion au serveur MongoDB
+client = MongoClient(MONGO_URI)
+db = client[DB_NAME]
 
 # lien vers l'open data : https://opendata.agglo-lenslievin.fr/datasets/e1c55f7ec4d049a7a04488a0694e6d82_0/explore?location=50.439939%2C2.815297%2C14.74
 # Charger le fichier CSV pour en examiner le contenu
@@ -23,7 +34,11 @@ formatted_data = pd.DataFrame({
 })
 
 # Exporter les données formatées dans un nouveau fichier CSV
-formatted_data.to_csv(output_file, index=False, sep=";")
+#formatted_data.to_csv(output_file, index=False, sep=";")
+# Enregistrement des données formatées dans la base de données
+collection = COLLECTION_NAMES[0]
+print(f"Enregistrement des données dans {collection}")
+db[collection].insert_many(formatted_data.to_dict(orient="records"))
 
 print(f"Données formatées et enregistrées dans {output_file}")
 
