@@ -1,14 +1,15 @@
 <script lang="ts">
-	import { MapLibre, Marker, Popup } from 'svelte-maplibre';
-	import { structureCommerceMarkers, structureEvenementMarkers, type Data } from '@/data';
+	import { DefaultMarker, MapLibre, Marker, Popup } from 'svelte-maplibre';
+	import { getCommerceBgColor, structureCommerceMarkers, type Data } from '@/data';
 
 	type Props = {
-		data: Data;
+		commerces: Data['commerce'];
+		selectedEvent: Data['evenement'][number] | null;
+		distance: number;
 	};
 
-	const { data }: Props = $props();
-	const commerceMarkers = $derived(structureCommerceMarkers(data));
-	const evenementMarkers = $derived(structureEvenementMarkers(data));
+	const { commerces, selectedEvent }: Props = $props();
+	const commerceMarkers = $derived(structureCommerceMarkers(commerces));
 
 	const defaultLattitude = 50.432649;
 	const defaultLongitude = 2.81951;
@@ -21,18 +22,28 @@
 	style="https://basemaps.cartocdn.com/gl/positron-gl-style/style.json"
 	class="relative aspect-[9/16] max-h-[70vh] w-full sm:aspect-video sm:max-h-full"
 >
-	{#each commerceMarkers as marker}
-		<Marker
-			lngLat={marker.lngLat}
-			class="grid h-8 w-8 place-items-center rounded-full border border-gray-200 bg-red-300 text-black shadow-2xl focus:outline-2 focus:outline-black"
-		>
-			<span>
-				{marker.label}
-			</span>
-
-			<Popup openOn="hover" offset={[0, -10]}>
-				<div class="text-sm">{marker.name}</div>
+	{#if selectedEvent}
+		<DefaultMarker lngLat={[selectedEvent.longitude, selectedEvent.latitude]}>
+			<Popup offset={[0, -10]}>
+				<div class="text-lg font-bold">{selectedEvent.nom}</div>
 			</Popup>
+		</DefaultMarker>
+	{/if}
+
+	{#each commerceMarkers as marker, i}
+		<Marker lngLat={marker.lngLat}>
+			<div
+				class="grid size-8 place-items-center rounded-full border border-gray-200 text-black shadow-2xl focus:outline-2 focus:outline-black"
+				style="background-color: {getCommerceBgColor(commerces[i].type)}"
+			>
+				<span>
+					{marker.label.slice(0, 3).toUpperCase()}
+				</span>
+
+				<Popup openOn="hover" offset={[0, -10]}>
+					<div class="text-sm">{marker.name}</div>
+				</Popup>
+			</div>
 		</Marker>
 	{/each}
 </MapLibre>
