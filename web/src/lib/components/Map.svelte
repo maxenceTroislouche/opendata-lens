@@ -23,9 +23,9 @@
 	class="relative aspect-[9/16] max-h-[70vh] w-full sm:aspect-video sm:max-h-full"
 >
 	{#if selectedEvent}
-		<DefaultMarker lngLat={[selectedEvent.longitude, selectedEvent.latitude]}>
+		<DefaultMarker class="z-50" lngLat={[selectedEvent.longitude, selectedEvent.latitude]}>
 			<Popup offset={[0, -10]}>
-				<div class="text-lg font-bold">{selectedEvent.nom}</div>
+				<div class="text-lg font-bold">{selectedEvent.adresse}</div>
 			</Popup>
 		</DefaultMarker>
 	{/if}

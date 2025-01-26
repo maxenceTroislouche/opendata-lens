@@ -2,7 +2,6 @@
 	import { onMount } from 'svelte';
 	import Map from '@/components/Map.svelte';
 	import { type Data } from '@/data';
-	import { Select, SelectTrigger, SelectContent, SelectItem } from '@/components/ui/select';
 	import { Slider } from '@/components/ui/slider';
 
 	let data = $state<Data>();
@@ -37,21 +36,33 @@
 </script>
 
 {#if data}
-	<div>
-		<header class="flex items-center justify-between p-4">
-			<Select type="single" bind:value={selectedEventIndex}>
-				<SelectTrigger class="w-[180px]">
-					{data.evenement[Number.parseInt(selectedEventIndex)]?.nom}
-				</SelectTrigger>
-				<SelectContent>
-					{#each data.evenement as event, i}
-						<SelectItem value={`${i}`}>{event.nom}</SelectItem>
-					{/each}
-				</SelectContent>
-			</Select>
+	<div class="flex h-screen">
+		<div class="flex h-screen w-72 flex-col gap-4">
+			<div class="mt-2 px-4 space-y-2">
+				<h2>Distance</h2>
+				<Slider type="single" bind:value={distance} max={100} step={1} />
+			</div>
 
-			<Slider type="single" bind:value={distance} max={100} step={1} />
-		</header>
+			<div class="grow overflow-auto">
+				<h2 class="px-4">Evenements</h2>
+
+				<div class="overflow-auto px-4">
+					{#each data.evenement as event, i}
+						<button
+							onclick={() => (selectedEventIndex = `${i}`)}
+							data-selected={selectedEventIndex === `${i}`}
+							class="w-full border-b rounded-md text-left p-2 data-[selected=true]:bg-gray-100 overflow-hidden"
+						>
+							<p>{event.nom}</p>
+							<p class="text-nowrap text-ellipsis">{event.description}</p>
+							<p>{event.duree}</p>
+							<p>{event.date} à {event.heure}</p>
+							<p>{event.adresse}</p>
+						</button>
+					{/each}
+				</div>
+			</div>
+		</div>
 
 		<Map
 			commerces={filteredCommerces}
