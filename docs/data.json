@@ -1,0 +1,2463 @@
+{
+    "commerce": [
+        {
+            "nom": "Interaction",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "employment_agency",
+            "longitude": 2.83347750107837,
+            "latitude": 50.4280840294553
+        },
+        {
+            "nom": "Laverie Révolution",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "laundry",
+            "longitude": 2.8208716,
+            "latitude": 50.4263543993593
+        },
+        {
+            "nom": "Sabatier Traiteur",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "caterer",
+            "longitude": 2.825669,
+            "latitude": 50.4299480993586
+        },
+        {
+            "nom": "Blondeau",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "clothes",
+            "longitude": 2.8290723,
+            "latitude": 50.4293164993587
+        },
+        {
+            "nom": "La Loco",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "cafe",
+            "longitude": 2.82789263363227,
+            "latitude": 50.4276363541788
+        },
+        {
+            "nom": "",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "post_office",
+            "longitude": 2.8341662,
+            "latitude": 50.4289628993588
+        },
+        {
+            "nom": "",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.8071835,
+            "latitude": 50.4409654993563
+        },
+        {
+            "nom": "PopSchool",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "educational_institution",
+            "longitude": 2.8323691,
+            "latitude": 50.4337176993578
+        },
+        {
+            "nom": "La Table de Bruno",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.82672054331472,
+            "latitude": 50.4283727046545
+        },
+        {
+            "nom": "Point P",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "doityourself",
+            "longitude": 2.8292799,
+            "latitude": 50.4562529993531
+        },
+        {
+            "nom": "Cordonnerie Basly",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "shoemaker",
+            "longitude": 2.8260143,
+            "latitude": 50.4302073993585
+        },
+        {
+            "nom": "Sisley",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "clothes",
+            "longitude": 2.8289429,
+            "latitude": 50.4293511993587
+        },
+        {
+            "nom": "Groovy Coffee",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "cafe",
+            "longitude": 2.8299209,
+            "latitude": 50.4291292993587
+        },
+        {
+            "nom": "Lens Grande Résidence",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "post_office",
+            "longitude": 2.8307705,
+            "latitude": 50.4432347993558
+        },
+        {
+            "nom": "Flor halle",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "florist",
+            "longitude": 2.8277366,
+            "latitude": 50.4296180993586
+        },
+        {
+            "nom": "",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.8354963,
+            "latitude": 50.4281945993589
+        },
+        {
+            "nom": "Pharmacie du cantin",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pharmacy",
+            "longitude": 2.8333627,
+            "latitude": 50.4321646993581
+        },
+        {
+            "nom": "La Bruxelloise",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bakery",
+            "longitude": 2.8312629,
+            "latitude": 50.432483899358
+        },
+        {
+            "nom": "Restaurant Universitaire de Lens",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.824965974884,
+            "latitude": 50.4352588766967
+        },
+        {
+            "nom": "Brasserie Elegance Istanbul",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fast_food",
+            "longitude": 2.8252638,
+            "latitude": 50.4302290993585
+        },
+        {
+            "nom": "Boulangerie du musée",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bakery",
+            "longitude": 2.8032515,
+            "latitude": 50.432671999358
+        },
+        {
+            "nom": "ALDI",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "supermarket",
+            "longitude": 2.80371322940693,
+            "latitude": 50.4261954365011
+        },
+        {
+            "nom": "Yves Rocher",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "beauty",
+            "longitude": 2.8294072,
+            "latitude": 50.4291983993587
+        },
+        {
+            "nom": "Fournil Basly",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bakery",
+            "longitude": 2.8281085,
+            "latitude": 50.4298084993586
+        },
+        {
+            "nom": "Carrefour Market",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "supermarket",
+            "longitude": 2.8314929,
+            "latitude": 50.4339263993577
+        },
+        {
+            "nom": "Esso Express",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fuel",
+            "longitude": 2.819537,
+            "latitude": 50.4272776993591
+        },
+        {
+            "nom": "Mission Locale Antenne de Lens",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "employment_agency",
+            "longitude": 2.83438281392994,
+            "latitude": 50.4346166684496
+        },
+        {
+            "nom": "Pharmacie Laudano",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pharmacy",
+            "longitude": 2.8368039,
+            "latitude": 50.4281413993589
+        },
+        {
+            "nom": "R'One",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "clothes",
+            "longitude": 2.8276191,
+            "latitude": 50.4299624993586
+        },
+        {
+            "nom": "Maif Lens",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "insurance",
+            "longitude": 2.8437923,
+            "latitude": 50.4315856993582
+        },
+        {
+            "nom": "NOZ",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "variety_store",
+            "longitude": 2.80268837087199,
+            "latitude": 50.4261098567922
+        },
+        {
+            "nom": "H&M",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "clothes",
+            "longitude": 2.8285264,
+            "latitude": 50.4294077993587
+        },
+        {
+            "nom": "Le laonnois",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pub",
+            "longitude": 2.8335312,
+            "latitude": 50.4323097993581
+        },
+        {
+            "nom": "Pharmacie Dubois",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pharmacy",
+            "longitude": 2.808753,
+            "latitude": 50.4273039993591
+        },
+        {
+            "nom": "Hsbc",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bank",
+            "longitude": 2.8333885,
+            "latitude": 50.4312176993583
+        },
+        {
+            "nom": "Pharmacie Dehay",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pharmacy",
+            "longitude": 2.82021321524685,
+            "latitude": 50.4257833945402
+        },
+        {
+            "nom": "Jeanson",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pastry",
+            "longitude": 2.8310953,
+            "latitude": 50.4293008993587
+        },
+        {
+            "nom": "Les Halles de la Formation",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "educational_institution",
+            "longitude": 2.8211693,
+            "latitude": 50.4335568993578
+        },
+        {
+            "nom": "Pharmacie Sainte-Barbe",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pharmacy",
+            "longitude": 2.8330063,
+            "latitude": 50.4314040993583
+        },
+        {
+            "nom": "Total Access",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fuel",
+            "longitude": 2.81995691061531,
+            "latitude": 50.4237750414862
+        },
+        {
+            "nom": "Pharmacie des Hauts de Lens",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pharmacy",
+            "longitude": 2.8304352,
+            "latitude": 50.4433125993558
+        },
+        {
+            "nom": "Boulangerie - Pâtisserie La Gazelle",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bakery",
+            "longitude": 2.8281622,
+            "latitude": 50.4333160993579
+        },
+        {
+            "nom": "Kiloutou",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "tool_hire",
+            "longitude": 2.81754425803832,
+            "latitude": 50.4547654974926
+        },
+        {
+            "nom": "Avis",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "car_rental",
+            "longitude": 2.8399712,
+            "latitude": 50.4261453993594
+        },
+        {
+            "nom": "Caisse d'Épargne",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bank",
+            "longitude": 2.794039942663,
+            "latitude": 50.4384284225439
+        },
+        {
+            "nom": "Midas",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "car_repair",
+            "longitude": 2.8343903,
+            "latitude": 50.4337618993578
+        },
+        {
+            "nom": "",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "ticket",
+            "longitude": 2.8280128,
+            "latitude": 50.4268818993592
+        },
+        {
+            "nom": "Point B",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.8305742,
+            "latitude": 50.4289555993588
+        },
+        {
+            "nom": "Lissac",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "optician",
+            "longitude": 2.8332891,
+            "latitude": 50.4320355993581
+        },
+        {
+            "nom": "L'autre estaminet",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.83309003181632,
+            "latitude": 50.4288992408036
+        },
+        {
+            "nom": "Total",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fuel",
+            "longitude": 2.8354641,
+            "latitude": 50.4336997993578
+        },
+        {
+            "nom": "Épicerie du 11",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "convenience",
+            "longitude": 2.7973609,
+            "latitude": 50.4398618993565
+        },
+        {
+            "nom": "Au Cantin",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bar",
+            "longitude": 2.8306981,
+            "latitude": 50.432420499358
+        },
+        {
+            "nom": "Events Tour",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "party",
+            "longitude": 2.8264246,
+            "latitude": 50.4301813993585
+        },
+        {
+            "nom": "Au Pot A Tabac",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "tobacco",
+            "longitude": 2.80332215381696,
+            "latitude": 50.432752185914
+        },
+        {
+            "nom": "Jeanson",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "cafe",
+            "longitude": 2.8310112,
+            "latitude": 50.4292923993587
+        },
+        {
+            "nom": "Nicolas",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "alcohol",
+            "longitude": 2.8268758,
+            "latitude": 50.4301236993585
+        },
+        {
+            "nom": "Emotion Foot",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "gift",
+            "longitude": 2.81777486479177,
+            "latitude": 50.4314630832366
+        },
+        {
+            "nom": "Boutique Tadao",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "ticket",
+            "longitude": 2.82672928674127,
+            "latitude": 50.4282207875132
+        },
+        {
+            "nom": "Garage Deleplanque",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "car_repair",
+            "longitude": 2.8278945,
+            "latitude": 50.4319885993581
+        },
+        {
+            "nom": "Allianz",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "insurance",
+            "longitude": 2.8325098,
+            "latitude": 50.432544799358
+        },
+        {
+            "nom": "Via Mercato",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.82657909061538,
+            "latitude": 50.4283731987832
+        },
+        {
+            "nom": "Agence D'intérim Proman Lens",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "employment_agency",
+            "longitude": 2.8343067365278,
+            "latitude": 50.4282411816504
+        },
+        {
+            "nom": "",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fast_food",
+            "longitude": 2.832161,
+            "latitude": 50.4293889993587
+        },
+        {
+            "nom": "Sephora",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "cosmetics",
+            "longitude": 2.8286992,
+            "latitude": 50.4293854993587
+        },
+        {
+            "nom": "Pharmacie de la Carmi du Nord-Pas-de-Calais",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pharmacy",
+            "longitude": 2.8213724,
+            "latitude": 50.4370063993571
+        },
+        {
+            "nom": "",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bakery",
+            "longitude": 2.8079619,
+            "latitude": 50.4401868993564
+        },
+        {
+            "nom": "Bijou Brigitte",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "jewelry",
+            "longitude": 2.8303986,
+            "latitude": 50.4290231993588
+        },
+        {
+            "nom": "Les Gars Des Eaux",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "plumber",
+            "longitude": 2.80591366111472,
+            "latitude": 50.4408935115079
+        },
+        {
+            "nom": "Atol",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "optician",
+            "longitude": 2.8332747,
+            "latitude": 50.4318844993582
+        },
+        {
+            "nom": "Bistrot Césarine",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.8183562,
+            "latitude": 50.4289471993588
+        },
+        {
+            "nom": "Total Access",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fuel",
+            "longitude": 2.83130193279896,
+            "latitude": 50.4434242996702
+        },
+        {
+            "nom": "Caisse d'Épargne",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bank",
+            "longitude": 2.83270112789212,
+            "latitude": 50.4277920792461
+        },
+        {
+            "nom": "L'afrika Food épicerie",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "convenience",
+            "longitude": 2.8306133,
+            "latitude": 50.4295527993586
+        },
+        {
+            "nom": "Le Maquis",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.82241827815294,
+            "latitude": 50.4328785517611
+        },
+        {
+            "nom": "Furet du nord",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "books",
+            "longitude": 2.8283747,
+            "latitude": 50.4294464993587
+        },
+        {
+            "nom": "Alimentation",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "convenience",
+            "longitude": 2.8259459,
+            "latitude": 50.4302090993585
+        },
+        {
+            "nom": "La civette",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "cafe",
+            "longitude": 2.8299905,
+            "latitude": 50.4293928993587
+        },
+        {
+            "nom": "La librairie des Otakus",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "books",
+            "longitude": 2.8258912,
+            "latitude": 50.4299298993586
+        },
+        {
+            "nom": "L'étiquette",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.8328313,
+            "latitude": 50.4294734993587
+        },
+        {
+            "nom": "Literie Bleue Nuit",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bed",
+            "longitude": 2.8197379,
+            "latitude": 50.42315299936
+        },
+        {
+            "nom": "Auchan",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fuel",
+            "longitude": 2.819838,
+            "latitude": 50.4261757993593
+        },
+        {
+            "nom": "Action",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "variety_store",
+            "longitude": 2.81974,
+            "latitude": 50.42326639936
+        },
+        {
+            "nom": "Pharmacie Centrale",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pharmacy",
+            "longitude": 2.8312488,
+            "latitude": 50.4293150993587
+        },
+        {
+            "nom": "Square Habitat",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "estate_agent",
+            "longitude": 2.833104,
+            "latitude": 50.4307664993584
+        },
+        {
+            "nom": "Morgan Services",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "employment_agency",
+            "longitude": 2.8346502,
+            "latitude": 50.4323814993581
+        },
+        {
+            "nom": "",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "hairdresser",
+            "longitude": 2.8333374,
+            "latitude": 50.4297556993586
+        },
+        {
+            "nom": "ADA",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "car_rental",
+            "longitude": 2.81961612116131,
+            "latitude": 50.4242582171908
+        },
+        {
+            "nom": "Adopt'",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "perfumery",
+            "longitude": 2.8304836,
+            "latitude": 50.4290056993588
+        },
+        {
+            "nom": "L'art de la braise",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.8240904,
+            "latitude": 50.4302371993585
+        },
+        {
+            "nom": "Relais La Poste",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "post_office",
+            "longitude": 2.8225274,
+            "latitude": 50.4306770993584
+        },
+        {
+            "nom": "",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bar",
+            "longitude": 2.8034392,
+            "latitude": 50.432699299358
+        },
+        {
+            "nom": "",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bakery",
+            "longitude": 2.8121408,
+            "latitude": 50.4425665993559
+        },
+        {
+            "nom": "Tacos King",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fast_food",
+            "longitude": 2.82918859655497,
+            "latitude": 50.4271646600342
+        },
+        {
+            "nom": "Philippe Olivier",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "cheese",
+            "longitude": 2.8330209,
+            "latitude": 50.4312410993583
+        },
+        {
+            "nom": "Tout Chaud",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fast_food",
+            "longitude": 2.8308842,
+            "latitude": 50.4289404993588
+        },
+        {
+            "nom": "McDonald's",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fast_food",
+            "longitude": 2.82136036129338,
+            "latitude": 50.4318565260871
+        },
+        {
+            "nom": "Crédit Mutuel",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bank",
+            "longitude": 2.8230709,
+            "latitude": 50.4302255993585
+        },
+        {
+            "nom": "Le Galibot",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.8074467,
+            "latitude": 50.4319179993581
+        },
+        {
+            "nom": "Friterie Momo",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fast_food",
+            "longitude": 2.82090910284202,
+            "latitude": 50.4337332492883
+        },
+        {
+            "nom": "Speedy",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "car_repair",
+            "longitude": 2.81973402183424,
+            "latitude": 50.4266886182191
+        },
+        {
+            "nom": "Tchip Coiffure",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "hairdresser",
+            "longitude": 2.8280776,
+            "latitude": 50.4330518993579
+        },
+        {
+            "nom": "Le Pain qui Chante",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bakery",
+            "longitude": 2.8047479,
+            "latitude": 50.4440859993556
+        },
+        {
+            "nom": "Leonidas",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "chocolate",
+            "longitude": 2.8328273,
+            "latitude": 50.4319922993581
+        },
+        {
+            "nom": "Kokeshi",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.83301034509905,
+            "latitude": 50.4289078759993
+        },
+        {
+            "nom": "Century 21",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "estate_agent",
+            "longitude": 2.8318548412787,
+            "latitude": 50.4279332618309
+        },
+        {
+            "nom": "Carrefour City",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "supermarket",
+            "longitude": 2.8331583,
+            "latitude": 50.4295076993586
+        },
+        {
+            "nom": "Garage Solidaire du Bassin Minier",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "car_repair",
+            "longitude": 2.8392787,
+            "latitude": 50.4478594993548
+        },
+        {
+            "nom": "Krys",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "optician",
+            "longitude": 2.829311,
+            "latitude": 50.4292604993587
+        },
+        {
+            "nom": "Total Wash",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "car_wash",
+            "longitude": 2.81971008537706,
+            "latitude": 50.4239643672656
+        },
+        {
+            "nom": "Al'Heure du Pain",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bakery",
+            "longitude": 2.798668,
+            "latitude": 50.4406344993563
+        },
+        {
+            "nom": "Chez Caty",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "cafe",
+            "longitude": 2.80401669365474,
+            "latitude": 50.4326916349006
+        },
+        {
+            "nom": "Style Addict",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "clothes",
+            "longitude": 2.8276357,
+            "latitude": 50.4296375993586
+        },
+        {
+            "nom": "Ab Serrurier Protection Fermetures",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "locksmith",
+            "longitude": 2.8185858,
+            "latitude": 50.4289561993588
+        },
+        {
+            "nom": "Grill Istanbul",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fast_food",
+            "longitude": 2.83138943916151,
+            "latitude": 50.4277473412624
+        },
+        {
+            "nom": "Le Galopin",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bar",
+            "longitude": 2.8117389,
+            "latitude": 50.4428623993559
+        },
+        {
+            "nom": "A Guienne",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bakery",
+            "longitude": 2.8257284,
+            "latitude": 50.4302234993585
+        },
+        {
+            "nom": "Scooter Mix",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "motorcycle",
+            "longitude": 2.8191165,
+            "latitude": 50.4285339993588
+        },
+        {
+            "nom": "Total",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "convenience",
+            "longitude": 2.83555500972757,
+            "latitude": 50.433624653177
+        },
+        {
+            "nom": "Allianz",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "insurance",
+            "longitude": 2.8297137,
+            "latitude": 50.4323673993581
+        },
+        {
+            "nom": "CIC",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bank",
+            "longitude": 2.833585,
+            "latitude": 50.4289535993588
+        },
+        {
+            "nom": "Boulangerie Pâtisserie",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bakery",
+            "longitude": 2.8203562,
+            "latitude": 50.4243500993597
+        },
+        {
+            "nom": "Konapoke",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.83326490139944,
+            "latitude": 50.4295639398793
+        },
+        {
+            "nom": "M comme Mutuelle",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "insurance",
+            "longitude": 2.825327,
+            "latitude": 50.4299723993586
+        },
+        {
+            "nom": "Vog Coiffure",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "hairdresser",
+            "longitude": 2.83125016191125,
+            "latitude": 50.4273794359844
+        },
+        {
+            "nom": "Orpi",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "estate_agent",
+            "longitude": 2.8345719,
+            "latitude": 50.4333945993578
+        },
+        {
+            "nom": "Gmf",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "insurance",
+            "longitude": 2.8338403,
+            "latitude": 50.432645499358
+        },
+        {
+            "nom": "O Mexicain",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fast_food",
+            "longitude": 2.8298519,
+            "latitude": 50.4271344993591
+        },
+        {
+            "nom": "Pharmacie Saint-Léger",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pharmacy",
+            "longitude": 2.8324587,
+            "latitude": 50.4285216993588
+        },
+        {
+            "nom": "Les Vins Gourmands",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "alcohol",
+            "longitude": 2.8334058,
+            "latitude": 50.4310556993583
+        },
+        {
+            "nom": "Action Mobility",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bicycle",
+            "longitude": 2.828789,
+            "latitude": 50.4288956993588
+        },
+        {
+            "nom": "Appollo Bar",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bar",
+            "longitude": 2.8283632,
+            "latitude": 50.4274055993591
+        },
+        {
+            "nom": "Andiamolens",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "gift",
+            "longitude": 2.8288456,
+            "latitude": 50.4293735993586
+        },
+        {
+            "nom": "Mac Ewans",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pub",
+            "longitude": 2.83404252687642,
+            "latitude": 50.4322506526578
+        },
+        {
+            "nom": "Cafetéria Crous",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "cafe",
+            "longitude": 2.8247087,
+            "latitude": 50.4351471993575
+        },
+        {
+            "nom": "Aksis",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "educational_institution",
+            "longitude": 2.8349538,
+            "latitude": 50.4296893993586
+        },
+        {
+            "nom": "BNP Paribas",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bank",
+            "longitude": 2.8311323,
+            "latitude": 50.4289362993588
+        },
+        {
+            "nom": "Le Pain de la Bouche",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.8298523707243,
+            "latitude": 50.4268166632825
+        },
+        {
+            "nom": "Afri Call Food Lens",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fast_food",
+            "longitude": 2.8251764,
+            "latitude": 50.4302294993585
+        },
+        {
+            "nom": "Banque Populaire",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bank",
+            "longitude": 2.8235092,
+            "latitude": 50.4302102993585
+        },
+        {
+            "nom": "MINE DE RIEN",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "brewery",
+            "longitude": 2.82438237341799,
+            "latitude": 50.4292717933406
+        },
+        {
+            "nom": "Le Stromboli",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.82763929983772,
+            "latitude": 50.4302010262412
+        },
+        {
+            "nom": "L'Atelier du Cerisier",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.80494499493702,
+            "latitude": 50.4317302839415
+        },
+        {
+            "nom": "CNG station",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fuel",
+            "longitude": 2.82076360569128,
+            "latitude": 50.4537229942678
+        },
+        {
+            "nom": "Le Rétro",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.8339242,
+            "latitude": 50.432815399358
+        },
+        {
+            "nom": "Stephane plaza",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "estate_agent",
+            "longitude": 2.8333012,
+            "latitude": 50.4316672993582
+        },
+        {
+            "nom": "Caisse d'Épargne",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bank",
+            "longitude": 2.8254997,
+            "latitude": 50.4302237993585
+        },
+        {
+            "nom": "Au tout va bien",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pub",
+            "longitude": 2.8329005,
+            "latitude": 50.4317037993582
+        },
+        {
+            "nom": "O Sapristi",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.8346507,
+            "latitude": 50.4296532993586
+        },
+        {
+            "nom": "Optic 3000",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "optician",
+            "longitude": 2.8328466,
+            "latitude": 50.4318871993582
+        },
+        {
+            "nom": "Panier Sympa",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "convenience",
+            "longitude": 2.8083598,
+            "latitude": 50.4417413993561
+        },
+        {
+            "nom": "Boulangerie Pâtisserie",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bakery",
+            "longitude": 2.8192376,
+            "latitude": 50.4290655993588
+        },
+        {
+            "nom": "Sun Beauté",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "hairdresser",
+            "longitude": 2.8257287,
+            "latitude": 50.4305413993585
+        },
+        {
+            "nom": "Orge & Houblon",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bar",
+            "longitude": 2.8236204,
+            "latitude": 50.4302157993585
+        },
+        {
+            "nom": "",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.8088191,
+            "latitude": 50.4401967993564
+        },
+        {
+            "nom": "Pharmacie du 4 septembre",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pharmacy",
+            "longitude": 2.82973,
+            "latitude": 50.4320660993581
+        },
+        {
+            "nom": "Crédit Agricole",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bank",
+            "longitude": 2.8231771608149,
+            "latitude": 50.4298830804224
+        },
+        {
+            "nom": "Synergie",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "employment_agency",
+            "longitude": 2.8266888,
+            "latitude": 50.4321972993581
+        },
+        {
+            "nom": "Le Balto",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "cafe",
+            "longitude": 2.83178932869912,
+            "latitude": 50.4279114270691
+        },
+        {
+            "nom": "Esso Express",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fuel",
+            "longitude": 2.80686237400463,
+            "latitude": 50.4271889496164
+        },
+        {
+            "nom": "Barré Automobiles",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "car",
+            "longitude": 2.80901,
+            "latitude": 50.4397879993565
+        },
+        {
+            "nom": "Alain aflelou",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "optician",
+            "longitude": 2.8332791,
+            "latitude": 50.4316210993582
+        },
+        {
+            "nom": "",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "convenience",
+            "longitude": 2.82827314627511,
+            "latitude": 50.4268622117955
+        },
+        {
+            "nom": "La Boîte à Pizza",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fast_food",
+            "longitude": 2.8230747,
+            "latitude": 50.4305691993584
+        },
+        {
+            "nom": "Entendre",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "hearing_aids",
+            "longitude": 2.8363219,
+            "latitude": 50.4288881993588
+        },
+        {
+            "nom": "La Mie Câline",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bakery",
+            "longitude": 2.8291989,
+            "latitude": 50.4295892993586
+        },
+        {
+            "nom": "PMU",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bar",
+            "longitude": 2.80297540679801,
+            "latitude": 50.4327394100516
+        },
+        {
+            "nom": "pain doré",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bakery",
+            "longitude": 2.8312724,
+            "latitude": 50.4289496993588
+        },
+        {
+            "nom": "Shiva",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "cleaning",
+            "longitude": 2.8262921,
+            "latitude": 50.4301920993585
+        },
+        {
+            "nom": "Saray",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fast_food",
+            "longitude": 2.8253871,
+            "latitude": 50.4302306993585
+        },
+        {
+            "nom": "Pharmacie des Provinces",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pharmacy",
+            "longitude": 2.79692692579009,
+            "latitude": 50.4395245938004
+        },
+        {
+            "nom": "Royal Snack",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "cafe",
+            "longitude": 2.7974467,
+            "latitude": 50.4399214993565
+        },
+        {
+            "nom": "Store 62",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "window_blind",
+            "longitude": 2.8194883,
+            "latitude": 50.4291088993588
+        },
+        {
+            "nom": "Allianz",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "insurance",
+            "longitude": 2.83815849937952,
+            "latitude": 50.4322467375815
+        },
+        {
+            "nom": "Mr James",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "clothes",
+            "longitude": 2.8303539,
+            "latitude": 50.4293095993587
+        },
+        {
+            "nom": "GT Courtage Automobile",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "car",
+            "longitude": 2.8235467,
+            "latitude": 50.4306300993584
+        },
+        {
+            "nom": "AFP2I Lens",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "educational_institution",
+            "longitude": 2.8275,
+            "latitude": 50.4428190993559
+        },
+        {
+            "nom": "Auchan Supermarché Grande Résidence",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "supermarket",
+            "longitude": 2.83095831506171,
+            "latitude": 50.4430199426982
+        },
+        {
+            "nom": "AXA",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bank",
+            "longitude": 2.8311142,
+            "latitude": 50.427649399359
+        },
+        {
+            "nom": "L'ardoise",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.8202397,
+            "latitude": 50.4341659993577
+        },
+        {
+            "nom": "Caisse d'Épargne",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bank",
+            "longitude": 2.8334523,
+            "latitude": 50.4307412993584
+        },
+        {
+            "nom": "Auchan",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "supermarket",
+            "longitude": 2.82132179360772,
+            "latitude": 50.4263179304497
+        },
+        {
+            "nom": "Le Reinitas",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "cafe",
+            "longitude": 2.8246566,
+            "latitude": 50.4302471993585
+        },
+        {
+            "nom": "Dometvie",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bathroom_furnishing",
+            "longitude": 2.8310324,
+            "latitude": 50.4307865993584
+        },
+        {
+            "nom": "",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "convenience",
+            "longitude": 2.8026226,
+            "latitude": 50.432655299358
+        },
+        {
+            "nom": "Isa Leignel Coiffure & Beauté",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "hairdresser",
+            "longitude": 2.8290468,
+            "latitude": 50.4296071993586
+        },
+        {
+            "nom": "Otageek",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "books",
+            "longitude": 2.8303741,
+            "latitude": 50.4296849993586
+        },
+        {
+            "nom": "SFR",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "mobile_phone",
+            "longitude": 2.8307073,
+            "latitude": 50.4292738993587
+        },
+        {
+            "nom": "Carrefour Market",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "supermarket",
+            "longitude": 2.80614731927271,
+            "latitude": 50.427410250842
+        },
+        {
+            "nom": "O'Regal",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "fast_food",
+            "longitude": 2.8274895,
+            "latitude": 50.4299612993585
+        },
+        {
+            "nom": "Para Grande Pharmacie de Lens",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "pharmacy",
+            "longitude": 2.8281875,
+            "latitude": 50.4275047993591
+        },
+        {
+            "nom": "Velo Service Center",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "bicycle",
+            "longitude": 2.8278768,
+            "latitude": 50.4316161993582
+        },
+        {
+            "nom": "Le Timgad",
+            "description": "test",
+            "adresse": "",
+            "mail": "",
+            "type": "restaurant",
+            "longitude": 2.8277406,
+            "latitude": 50.4303147993585
+        }
+    ],
+    "evenement": [
+        {
+            "date": "2025-01-25",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "AGNES JAOUI",
+            "type": "SPECTACLE",
+            "description": "Nouveau spectacle : « Attendre que le soleil revienne »Voilà quelques années, qu’on me demande - la foule en délire et surtout Olivier Gluzman - d’écrire des chansons en français. Mais je n’arrivais pas à écrire des paroles de chansons. Et en fait, j’avais à peine envie de chanter en français, même les mots des autres. Je me sentais protégée, je crois, par les langues étrangères tandis qu’en français, je me sentais comme à nue, maladroite et ne trouvant pas comment faire chanter les mots. Peu à peu j’ai appris, à raison d’une à deux chansons par concert et par disque. J’ai apprivoisé le français chanté et accepté de me montrer un peu plus intimement en chanson.Et voilà, après 20 ans de scène en espagnol, portugais, hébreu ou arabe, un premier album en français.Agnès Jaoui",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_TABLET_LANDSCAPE_3_2.jpg"
+        },
+        {
+            "date": "2025-01-31",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "STEPHAN EICHER",
+            "type": "SPECTACLE",
+            "description": "Stephan EicherSeul en scèneLe hasard, mon fidèle compagnon, qui connaît toutes les abréviations et inversions mieux que n'importe quel GPS, m'a emmené, lors d’une flânerie de printemps, dans un quartiermoins affairiste ; un quartier rêveur, presque villageois, dans cette ville où je me trouvais par hasard.Le hasard, toujours lui, m’obligea à contourner un tramway accidenté. Et je me retrouvais sur une place où de grands arbres cachaient une récente et élégante bâtisse, couchéecomme un animal sauvage, sûr de lui, sans peur.Le bâtiment portait la mention THÉÂTREAu cours de mes 40 années en tant que musicien itinérant, j’ai appris que les théâtres sont de bons endroits pour exercer cet acte à la fois excitant et effrayant qui est de monter sur scène devant un public.Je sais qu’il a un rideau rouge et lourd qui étouffe la rumeur du monde extérieur et ses actualités sans fin ; qu’il y a un public qui s’est soigneusement préparé pour ce rendez-vous et amène le plus précieux des biens : son attention ! J’aspire depuis longtemps à passer davantage de temps qu’une seule soirée de concert ; à séjourner en travaillant avec l’équipage de l’un de ces grands navires fermement ancrés, au coeur de l’une de ces merveilleuses machines, de ces vaisseaux des rêves.La porte était ouverte. Les gens étaient accueillants, curieux et attentifs… Et ils m’ont proposé de poser mes bagages, mes chansons, les paroles de mes amis Philippe Djian et Martin Suter, mon premier synthé acheter en 1980, une boite à rythme poussiéreuse, une guitare achetée tout de suite en sortant dans un magasin de musique à deux pas du théâtre…oui, ils existent encore, ils n’ont pas tous disparu comme les magasins de disques. Il y aurait, bien entendu, des histoires à raconter sur ce sujet. Bien des histoires…Et si tout va bien, comme dans une chorale, la voix individuelle se fondrait dans quelque chose de plus grand, de plus humain. Oui, peut-être que le mot « humain » est plus approprié pour ces moments-là.J’amènerais mes peurs, mon courage, mes inquiétudes et mes joies, à cette adresse exacte :notre univers, notre galaxie, la Voie Lactée, notre système solaire, la planète Terre, l'Europe– Le ThéâtreEt nous voilà, vous, moi et le hasardMerci pour votre temps et votre attentionCoeurdialementStephan Eicher",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg"
+        },
+        {
+            "date": "2025-02-02",
+            "heure": "10:30:00",
+            "duree": -1,
+            "nom": "LE GARDIEN DES EMOTIONS",
+            "type": "SPECTACLE",
+            "description": "Petit Jean et Mitsou vous emmènent aujourd’hui au pays de leurs émotions. La peur, la surprise, la colère… mais enfin et surtout la joie. Voilà ce que vont ressentir nos deux héros dans cette nouvelle aventure !Dès 2.5 ans",
+            "adresse": "LE KASTELET",
+            "longitude": 2.8212238,
+            "latitude": 50.4259397,
+            "image": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_3_2.jpg"
+        },
+        {
+            "date": "2025-02-08",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "CHIEN NOIR",
+            "type": "SPECTACLE",
+            "description": "Cette poésie musicale porte Apollo, premier album au sein duquel chien noir se mue en astronaute de la galaxie pop, remontant le temps jusqu’à la variété des années 80 et 90, celle de son enfance. De Jean-Jacques Goldman à Phil Collins, en passant par Springsteen, David Bowie, Mike and the Mechanics...Ces références transparaissent dans la production comme dans les chansons, munies des mêmes moyens et des mêmes envies qu’à l’époque : que la musique sonne, sonne, sonne ! Et qu’elle fasse vibrer nos cordes sensibles.Apollo, c’est aussi le nom d’un dispositif médico-expérimental dont aurait pu bénéficier la mère de Jean, disparue il y a quelques mois : « Après sa mort, j’ai réalisé que ce nom d’Apollo, qui la faisait beaucoup rire, devait devenir celui de l’album. Vu que l’album me permet de parler de tout ce qui a pu me construire, il me permet de perpétuer mon propre souvenir et de sauver ma mère. Elle y est partout, même lorsque je ne parle pas d’elle. »Autour de ce fil rouge, chien noir raconte l’amour, l’amitié, les départs et les retrouvailles, les exaltations et la mélancolie, tout ce qui constitue nos existences. Tel un vaste récit d’apprentissage, éternel recommencement où l’écriture devient « un prisme formidable pour voir à travers soi ». Cette intériorité est permise par une structure sonore pop,chaleureuse. Ces douze titres, riches du chemin déjà tracé par les deux EP de chien noir, ont bénéficié des apports de Lionnel Buzac, de Martin Lefebvre et de Tristan Salvati. Du minimalisme mélancolique de « Dans les yeux le monde » à la danse auto-tunée de « Julia », du R’n’B eighties d’« Olvido » au mid tempo à l’anglo-saxonne de « Si j’étais toi », de la ballade folk « Rien à voir » à la pop spacieuse aux échos hip hop de « Ton coeur »… Le chant de Jean est plus affirmé que jamais.« Est-ce que toi aussi, tu fais comme si, ton coeur n’allait pas éclater ? », demande Jean dès les premières mesures. Peut-être que oui, mais il bat la chamade en écoutant Apollo.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/0d2/1201f713-3288-4790-854a-ae42895450d2_105931_RETINA_PORTRAIT_16_9.jpg"
+        },
+        {
+            "date": "2025-02-10",
+            "heure": "14:00:00",
+            "duree": -1,
+            "nom": "LE GARDIEN DES EMOTIONS",
+            "type": "SPECTACLE",
+            "description": "Petit Jean et Mitsou vous emmènent aujourd’hui au pays de leurs émotions. La peur, la surprise, la colère… mais enfin et surtout la joie. Voilà ce que vont ressentir nos deux héros dans cette nouvelle aventure !Dès 2.5 ans - Durée : 45 min",
+            "adresse": "LE KASTELET",
+            "longitude": 2.8212238,
+            "latitude": 50.4259397,
+            "image": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_3_2.jpg"
+        },
+        {
+            "date": "2025-02-11",
+            "heure": "10:30:00",
+            "duree": -1,
+            "nom": "1 2 3 EN CIRQUE",
+            "type": "SPECTACLE",
+            "description": "Petit Jean a perdu son ballon, il a roulé sous le chapiteau du cirque du village…En partant à sa recherche, Petit Jean découvre un monde rempli d’artistes, tous plus surprenants les uns que les autres... Dès 2.5 ans",
+            "adresse": "LE KASTELET",
+            "longitude": 2.8212238,
+            "latitude": 50.4259397,
+            "image": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_3_2.jpg"
+        },
+        {
+            "date": "2025-02-11",
+            "heure": "14:00:00",
+            "duree": -1,
+            "nom": "1 2 3 EN CIRQUE",
+            "type": "SPECTACLE",
+            "description": "Petit Jean a perdu son ballon, il a roulé sous le chapiteau du cirque du village…En partant à sa recherche, Petit Jean découvre un monde rempli d’artistes, tous plus surprenants les uns que les autres... Dès 2.5 ans",
+            "adresse": "LE KASTELET",
+            "longitude": 2.8212238,
+            "latitude": 50.4259397,
+            "image": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_3_2.jpg"
+        },
+        {
+            "date": "2025-02-12",
+            "heure": "14:00:00",
+            "duree": -1,
+            "nom": "1 2 3 EN CIRQUE",
+            "type": "SPECTACLE",
+            "description": "Petit Jean a perdu son ballon, il a roulé sous le chapiteau du cirque du village…En partant à sa recherche, Petit Jean découvre un monde rempli d’artistes, tous plus surprenants les uns que les autres... Dès 2.5 ans",
+            "adresse": "LE KASTELET",
+            "longitude": 2.8212238,
+            "latitude": 50.4259397,
+            "image": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_3_2.jpg"
+        },
+        {
+            "date": "2025-02-12",
+            "heure": "10:30:00",
+            "duree": -1,
+            "nom": "1 2 3 EN CIRQUE",
+            "type": "SPECTACLE",
+            "description": "Petit Jean a perdu son ballon, il a roulé sous le chapiteau du cirque du village…En partant à sa recherche, Petit Jean découvre un monde rempli d’artistes, tous plus surprenants les uns que les autres... Dès 2.5 ans",
+            "adresse": "LE KASTELET",
+            "longitude": 2.8212238,
+            "latitude": 50.4259397,
+            "image": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_3_2.jpg"
+        },
+        {
+            "date": "2025-02-13",
+            "heure": "14:00:00",
+            "duree": -1,
+            "nom": "PETIT JEAN ET LE PETIT CHAPERON ROUGE",
+            "type": "SPECTACLE",
+            "description": "Aujourd’hui Petit Jean a eu un beau cadeau, un livre de contes. Son préféré ? le Petit Chaperon Rouge, mais il a décidé de nous raconter l’histoire telle qu’il aimerait la vivre...Spectacle de marionnettes à fils par le Théâtre Mariska.Conseillé à partir de 2.5 ans",
+            "adresse": "LE KASTELET",
+            "longitude": 2.8212238,
+            "latitude": 50.4259397,
+            "image": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_3_2.jpg"
+        },
+        {
+            "date": "2025-02-13",
+            "heure": "10:30:00",
+            "duree": -1,
+            "nom": "PETIT JEAN ET LE PETIT CHAPERON ROUGE",
+            "type": "SPECTACLE",
+            "description": "Aujourd’hui Petit Jean a eu un beau cadeau, un livre de contes. Son préféré ? le Petit Chaperon Rouge, mais il a décidé de nous raconter l’histoire telle qu’il aimerait la vivre...Spectacle de marionnettes à fils par le Théâtre Mariska.Conseillé à partir de 2.5 ans",
+            "adresse": "LE KASTELET",
+            "longitude": 2.8212238,
+            "latitude": 50.4259397,
+            "image": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_3_2.jpg"
+        },
+        {
+            "date": "2025-02-18",
+            "heure": "14:00:00",
+            "duree": -1,
+            "nom": "MONSIEUR CARNAVAL",
+            "type": "SPECTACLE",
+            "description": "C’est bientôt la fête au village ! Pappy permet à Petit Jean de descendre à la cave pour y trouver un déguisement. Mais attention ! Personne ne doit toucher à la malle de voyage qui est dans la cave… Mais Petit Jean est trop curieux...Durée 45 min - Conseillé à partir de 2.5 ans",
+            "adresse": "LE KASTELET",
+            "longitude": 2.8212238,
+            "latitude": 50.4259397,
+            "image": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_3_2.jpg"
+        },
+        {
+            "date": "2025-02-18",
+            "heure": "10:30:00",
+            "duree": -1,
+            "nom": "MONSIEUR CARNAVAL",
+            "type": "SPECTACLE",
+            "description": "C’est bientôt la fête au village ! Pappy permet à Petit Jean de descendre à la cave pour y trouver un déguisement. Mais attention ! Personne ne doit toucher à la malle de voyage qui est dans la cave… Mais Petit Jean est trop curieux...Durée 45 min - Conseillé à partir de 2.5 ans",
+            "adresse": "LE KASTELET",
+            "longitude": 2.8212238,
+            "latitude": 50.4259397,
+            "image": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_3_2.jpg"
+        },
+        {
+            "date": "2025-02-26",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "L'AUDIENCE EST OUVERTE",
+            "type": "SPECTACLE",
+            "description": "Richard Berry est de retour sur les planches dans un nouveau spectacle, une création intitulée L’audience est ouverte, mise en scène par Éric Théobald. Ce spectacle aborde quatre grandes affaires emblématiques du XXème siècle à travers le prisme de plaidoiries prononcées par de grands avocats : ?Maître Jakubowicz lors du procès de Klaus Barbie et ses crimes contre l’humanité?Maître Labori avec le procès d’Émile Zola dans l’Affaire Dreyfus?Maître Dupin sur la fin de vie ?Maître Molteni, dans un concours d’éloquence, sur le délit de solidaritéEntrecoupée d’images d’archives et appuyée par un procédé technique très impliquant, la mise en scène se veut immersive et invite le spectateur à endosser le rôle du juré. Un travail d’ambiance sonore et musical renforce cette tension palpable dans une salle d’audience et plonge le spectateur dans ces quatre moments d’Histoire et de Vérité. Avec L’audience est ouverte, Richard Berry met en lumière des affaires passionnantes, par leur dimension intemporelle, qui font écho à des enjeux contemporains essentiels.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+        },
+        {
+            "date": "2025-03-01",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "JEREMY FREROT",
+            "type": "SPECTACLE",
+            "description": "Rêveur éveillé, Jérémy Frerot aime les utopies, les idées en puissance et leur accomplissement. Sincère et émouvante, sa musique est le fruit d’une quête d’équilibre et une démarche créatrice libre d’artifice. Mélancolie et autodérision s’y croisent en apesanteur dans un contrepoint foisonnant. A une époque où la musique se fait de plus en plus à l’aide de logiciels, rendant accessoire la présence des instrumentistes, Jérémy Frerot fait partie d’une nouvelle scène de musiciens français capables de naviguer dans l’électro et la synth-pop autant qu’au fil d’une orchestration épurée et de sons organiques, qui donnent la sensation réjouissante d’écouter de la musique live. Après avoir connu six années de succès au sein du duo star Frero Delavega, en 2017 Jérémy Frerot a pris son envol en solo et est parvenu à s’imposer avec un premier album, Matriochka (2018), suivi de Meilleure vie (2021), certifiés disques d’or, et de chansons abordant des thèmes sensibles, tels que l’écologie et le respect de l’océan, une passion pour cet artiste qui vit au bord de l’Atlantique. Depuis, il égrène les succès avec la régularité d’un métronome.Durant deux années, loin des ondes et des salles de concert, il a pris le temps de réfléchir à sa vie, de faire des choix importants et de laisser sa plume courir.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/0d2/1201f713-3288-4790-854a-ae42895450d2_105931_EVENT_DETAIL_PAGE_16_9.jpg"
+        },
+        {
+            "date": "2025-03-08",
+            "heure": "19:00:00",
+            "duree": -1,
+            "nom": "TCHA TCHA CAR",
+            "type": "SPECTACLE",
+            "description": "Ils sont 2, ils ne se connaissent pas et pourtant ils vont devoir se supporter pendant plus de 8h dans la même voiture...Il est 22h, Grégory doit se rendre absolument dans le Sud de la France mais sa voiture vient de le lâcher...N'ayant pas d'autre choix, il décide pour la première fois de faire du covoiturage. Et c'est en allant sur le site  TchaTchaCar  qu'il tombe sur l'annonce parfaite :  Paris-Nice : propose 3 places, voiture confortable et spacieuse, départ 23h.  – Emilie 29 ans. Excité par l'idée de traverser le pays en compagnie de cette charmante conductrice, Grégory réserve directement sa place.Malheureusement pour lui, tout ne va pas se passer comme il l'espérait...",
+            "adresse": "LE KASTELET",
+            "longitude": 2.8212238,
+            "latitude": 50.4259397,
+            "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_LANDSCAPE_16_9.jpg"
+        },
+        {
+            "date": "2025-03-08",
+            "heure": "16:00:00",
+            "duree": -1,
+            "nom": "UN ROBOT PAS COMME LES AUTRES",
+            "type": "SPECTACLE",
+            "description": "Un conte moderne basé sur l'imagination et la participation de vos enfants.Sur sa planète peuplée uniquement de robots, Petit Pistachio ne passe pas inaperçu. En effet c'est le seul à avoir l'apparence d'un humain et être doté d'un coeur.Tous les jours, à l'école, ses copains robots se moquent de lui. Alors qu'eux n'ont qu'une seule ambition : bien travailler et être les meilleurs, Petit Pistachio, lui, n'a qu'une envie : profiter de la vie, rire, danser, chanter, voyager.Un jour, n'en pouvant plus de subir toutes ces moqueries, il décide de s'enfuir et se retrouve par le plus grand des hasards sur notre belle planète Terre.Comment va-t-il réagir en vous voyant, vous qui lui ressemblez tant ? Quel accueil allez-vous lui réserver ? Quels conseils allez-vous lui donner ?Une chose est sûre, Petit Pistachio a hâte de vous rencontrer !",
+            "adresse": "LE KASTELET",
+            "longitude": 2.8212238,
+            "latitude": 50.4259397,
+            "image": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_3_2.jpg"
+        },
+        {
+            "date": "2025-03-08",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "LE CERCLE DES POETES DISPARUS",
+            "type": "SPECTACLE",
+            "description": "Oh Capitaine, mon Capitaine... Cette réplique du Cercle des Poètes Disparus résonne toujours. Pour la première fois en France, le Théâtre Antoine adapte le film, avec dans le rôle du magnétique John Keating, Stéphane Freiss. Ce professeur charismatique et iconoclaste inspire ses jeunes élèves s’ouvrant à la vie, loin du carcan des conventions qu’incarne leur établissement. Histoire émouvante et contemporaine, la pièce célèbre l’amitié, l’émancipation, la transmission au moment où se dessinent personnalités et destins. Un cri à la vie ! Un cri à la Liberté ! Carpe Diem ! Carpe Diem !Auteur : Tom Schulman d’après le film produit par Touchstone Picture écrit par Tom SchulmanProduction originale : Classic Stage Company En accord avecl : Adam ZotovichDirecteur artistique : John Doyle Directeur général : Jeff Griffin Adaptation française de GéraldSibleyrasMise en scène : Olivier SolivérèsAdaptation : Gérard SibleyrasAvec : Stéphane Freiss,Ethan Oliel, Hélie Thonnat, Audran Cattin, Maxence Seva, Pierre Delage, Maxime Huriguen, Yvan Garouel, Olivier Bouana, Joseph Hartmann et Arthur Toullet, Arthur TOULLET, Joseph HARTMANNDécors Jean-Michel AdamLumières Denis KoranskyCostumes Chouchane Abello-TcherpachclanVidéos Sébastien MizermontMusiques Cyril GirouxAssistant mise en scène Pierre MarazinCostumes Isabelle Sitbon",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_ARTIST_PAGE_3_2.jpg"
+        },
+        {
+            "date": "2025-03-16",
+            "heure": "17:00:00",
+            "duree": -1,
+            "nom": "AVALON CELTIC DANCES",
+            "type": "SPECTACLE",
+            "description": "Un show de danses, de musiques et de chansons irlandaises avec, en toile de fond, l’histoire d’une rivalité entre deux prétendants se disputant, au pub, le cœur de la belle Mary.Un spectacle captivant, à taille humaine préservant la proximité avec les danseurs et les musiciens, mêlant d’époustouflantes chorégraphies de claquettes, de joyeuses scènes de Céilí à de belles chansons traditionnelles d’Irlande. Avec une énergie impressionnante, et toujours avec élégance, les danseurs se lancent des défis permettant de toucher du doigt le meilleur de la verte Erin.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_TABLET_LANDSCAPE_3_2.jpg"
+        },
+        {
+            "date": "2025-03-18",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "L'HEURE DES ASSASSINS",
+            "type": "SPECTACLE",
+            "description": "« La réussite est une chose étrange. Voyez-vous, ce soir, je signe mon retour triomphant en Angleterre.Tout le gratin de Londres sera là, pourtant il y aura bien un grand absent.Moi, Philip Somerset.Vous ne me verrez pas car ce soir, je vais mourir.Oh détrompez-vous, cela ne me fait pas plaisir !Au contraire…C’était une si belle soirée, j’étais entouré d’amis chers : Katherin ma soeur bien aimée, Hartford mon bras droit, Bram Stoker le directeur duthéâtre, Georges Bernard Shaw le dramaturge,Miss Lime mon assistante, Arthur Conan Doyle le célèbre romancier.Pourtant mon meurtrier est forcément parmi eux. Alors Qui ? Qui m a assassiné ? Et si c’était simplement mon heure ? »",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+        },
+        {
+            "date": "2025-03-21",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "MACHINE DE CIRQUE : KINTSUGI",
+            "type": "SPECTACLE",
+            "description": "Le kintsugi est l’art de sublimer les imperfections. Dans un abribus à l’écart du monde et du temps, des inconnus attendent d’être emmenés ailleurs. Ils ignorent quand ils partiront ni où ils iront. Ces voyageurs immobiles s’en remettent aux forces extérieures pour se perdre et, paradoxalement, retrouver quelque chose en eux-mêmes. Ce lieu mystérieux éveille chez chacun une soif de vie, de rencontres et d’inusités. Un désir de solidarité, de fous rires et d’éclats. Dans un rêve parfois éveillé, des fragments de leur passé sculptent le présent, révélant une beauté nouvelle. Avec Kintsugi, Machine de Cirque crée un moment de grande humanité, imprégné de prouesses acrobatiques vertigineuses. Un plongeon inspi- rant dans la vie, celle qui est ici, maintenant et pleine de beauté.Direction artistique: Vincent DubéMise en scène: Olivier LépineArtistes: Monica A. Aguilar Avila, Maude Arseneault, Briscoe, Raphaël Dubé, Francis-Olivier Girard, Anne-Marie Godin, Evelyne Paquin-Lanthier, Naomie Vogt RobyDirection technique de création: Patrick PaquetConception costumes: Sébastien DionneConception décors: Julie LévesqueConception musicale: Josué BeaucageUn remerciement tout particulier aux membres du conseil D’administration pour leur précieuse collaboration qui est essentielle au succès de Machine de Cirque.Machine de Cirque bénéficie de l’appui financier du Crédit d’impôt spectacles de la SODEC.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/a88/50f63b73-a195-43e1-83b3-5eb64ae5ca88_105471_RETINA_PORTRAIT_16_9.jpg"
+        },
+        {
+            "date": "2025-03-28",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "D'APRES UNE HISTOIRE VRAIE - D APRES UNE HISTOIRE VRAIE",
+            "type": "SPECTACLE",
+            "description": "Huit danseurs, deux batteurs. Dix hommes donc, pour venir déposer le carcan de «?la masculinité?». Il y a près de dix ans, d’après une histoire vraie ouvrait la voie à une irrésistible fluidité des polarités, rompant un à un les antagonismes par la grâce, sinon la fougue, de ses mouvements. Aujourd’hui, elle invite ses interprètes à redéployer une chorégraphie où se dénouent délicatement les divisions entre tradition et modernité. Pièce pivot, s’il en est une, elle porte à son point d’incandescence le souvenir d’une émotion, en étire sa matière jusqu’à la déflagration. Dans la friction entre les rythmes telluriques et les corps ondoyants, la danse invente sa propre plasticité.Au coude-à-coude avec la musique, elle court sur un arc qui va du rite tribal à la forme géométrique, de la fiction à l’abstraction, du groupe à la communauté. Mais c’est encore dans la solidarité souterraine des gestes, faisant que chacun tient grâce à la présence de l’autre, qu’un folklore sans territoire peut advenir. Aux chutes répondent les contacts sans cesse renouvelés, aux tournoiements l’assurance d’une main tendue, saisie dans toute sa plénitude. Des singularités s’observent, s’assemblent et se détachent pour se réunir à nouveau. Comment être ensemble?? La question, ici, prend toute son acuité.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/cf0/e3e32db3-adac-486f-b78d-7c8857f8bcf0_106191_RETINA_PORTRAIT_16_9.jpg"
+        },
+        {
+            "date": "2025-03-30",
+            "heure": "16:00:00",
+            "duree": -1,
+            "nom": "JULIEN COURBET",
+            "type": "SPECTACLE",
+            "description": null,
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_EVENT_DETAIL_PAGE_16_9.jpg"
+        },
+        {
+            "date": "2025-04-01",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "KESSEL",
+            "type": "SPECTACLE",
+            "description": "Joseph Kessel, écrivain, grand reporter et aventurier a traversé le XXe siècle, dont il a été l’infatigable observateur. Explorateur du monde et de la nature humaine, témoin de son temps, il avait une soif de vivre (et de boire) inextinguible. Kessel – La liberté à tout prix est un spectacle qui raconte cette existence hors du commun.Spectacle conseillé à partir de 12 ansMolière 2018 du Comédien Second Rôle (Adieu Monsieur Haffmann)Prix du Brigadier 2022Nommé pour le Molière 2024 du Seul/e en scène DistributionTexte et mise en scène Mathieu RannouInterprétation Franck DesmedtDécor Franck DesmedtCostumes Virginie HLumières Laurent BéalMusique Mathieu Rannou",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+        },
+        {
+            "date": "2025-04-04",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "JE L'AIME ET JE L'AURAI",
+            "type": "SPECTACLE",
+            "description": "Le spectacle est annulé, remboursement des billetsAdrienne Thomeret est une jolie femme pleine de charmes mais aussi de préjugés et de tabous.Un homme s’introduit chez elle et lui fait une cour insolente. Malgré ses efforts immodérés, il n’arrive pas à toucher son coeur et ses tentatives de séduction échouent lamentablement les unes après les autres.Un hasard opportun lui permet de découvrir très vite que le mari d’Adrienne n’est pas le mari fidèle que l’on croyait. Cette découverte va être, pour lui, un précieux moyen de chantage.C’est là ou la comédie commence et elle est loin d’être terminée…",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+        },
+        {
+            "date": "2025-04-04",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "LES CABOTINES",
+            "type": "SPECTACLE",
+            "description": "Quelle époque ! Nous sommes au début du XIXe siècle, Napoléon vient d’être nommé empereur des français !La Comédie Française est en ébullition ! Dans les loges, deux célèbres comédiennes qui se haïssent,provoquent scandales sur scandales.Elles se partagent les mêmes rôles et ce n’est plus tenable ! Injures et coups bas pleuvent…Les courtisans se succèdent, Talleyrand, ministre des Aaires étrangères intrigue,François-Joseph Talma, comédien préféré de Napoléon excelle…Jusqu’au jour où une jeune sociétaire se voit confier leurs emplois.Il leur faut tous réagir !Nos protagonistes décident alors de s’associer pour empoisonner la vie de la nouvelle venue…Les dialogues sont jubilatoires, les bons mots se succèdent, les scènes s’enchaînent à un rythme fouet nous entraînent dans les coulisses de ces scandaleuses…",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+        },
+        {
+            "date": "2025-04-23",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "BERNARD ALLISON",
+            "type": "SPECTACLE",
+            "description": "Le spectacle initialement prévu le 15 octobre 2024 à 20h00 est reporté au 23 avril 2025 à 20h00Les billets restent valables, les remboursements sont acceptésBernard Allison est un nom qui résonne avec force dans l’univers du blues moderne, incarnant la fusion des racines traditionnelles du genre avec une approche contemporaine et électrique. Fils de la légende du blues Luther Allison, Bernard est né en 1965 à Chicago, ville emblématique de ce style musical. Héritier d’un patrimoine artistique conséquent, il a su, depuis ses débuts, tracer son propre chemin en nous livrant une musique empreinte de passion et de virtuosité.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/7be/4e1e9428-29ec-401f-aa45-f1577614b7be_105421_RECOMENDATION_16_9.jpg"
+        },
+        {
+            "date": "2025-04-25",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "LA VIE EST UNE FETE",
+            "type": "SPECTACLE",
+            "description": "Est-ce parce qu’il est né un 1er janvier que Romain a fait de la phrase d’Audrey Hepburn son mantra ?« La vie est une fête, habille-toi pour ça. »D’anniversaire en anniversaire, le jeune homme raconte sa vie insouciante entre les bouleversements sociétaux du XXe siècle et des débuts du XXIe siècle. Difficultés familiales, amitiés, premières expériences sexuelles, découverte de l’amour en même temps que de son homosexualité, militantisme, transmission... Il faudra un événement tragique pour inciter enfinRomain à prendre part au combat, défendre ses droits et s’engager.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+        },
+        {
+            "date": "2025-05-02",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "UN GRAND CRI D'AMOUR",
+            "type": "SPECTACLE",
+            "description": "UN GRAND CRI D’AMOUR, LA COMÉDIE CULTE DE JOSIANE BALASKO REVIENT AVEC ALEXANDRE BRASSEUR et CATHERINE MARCHALAprès s’être aimés passionnément ; aujourd’hui ils se haïssent ! Unis à la vie comme à la scène, Gigi et Hugo formaient le couple d'artistes le plus en vue du Théâtre. Depuis leur séparation, Gigi a sombré dans la dépression (et dans l’alcool) tandis que son ex-mari tente de relancer sa carrière d'acteur avec une nouvelle pièce de théâtre.La première représentation va bientôt avoir lieu, mais sa partenaire lui fausse compagnie... Sylvestre (l’agent) et Léon (le metteur en scène) décident de faire appel à… Gigi pour remplacer la comédienne au pied levé ! L'occasion pour Gigi de revenir sous le feu de la rampe. Encore faut-il que les ex-amants acceptent cette idée !Entre Amour et Humour, des retrouvailles explosives, des dialogues percutants, des coups bas machiavéliques… Alexandre BRASSEUR et Catherine MARCHAL forment un duo choc de drôlerie et de tendresse !De : Josiane BALASKOAvec : Alexandre BRASSEUR, Catherine MARCHAL, Jean-Marie LHOMME, Fred NONYMise en scène : Eric LaugériasEn tournée de septembre 2024 à juin 2025",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_LANDSCAPE_16_9.jpg"
+        },
+        {
+            "date": "2025-05-10",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "BOODER",
+            "type": "SPECTACLE",
+            "description": "Ah l'école ! Après l’énorme succès de « Booder is back », booder a repris son cahier et son crayon quatre couleurs pour nous écrire un spectacle drôle et touchant sur l’école. De l’école de son enfance à celle de son fils aujourd’hui, il nous brosse avec humour le portrait du système scolaire. Un système scolaire en péril qui pourtant est la base du bien être de nos enfants. Tout y passe. Ses copains, le harcèlement scolaire, la récrée, ses profs.Connu pour les cours particuliers hilarants donnés à son fils,  Il revient avec, dans son cartable, un spectacle pour toute la famille.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg"
+        },
+        {
+            "date": "2025-05-11",
+            "heure": "16:00:00",
+            "duree": -1,
+            "nom": "BOODER AH L'ECOLE",
+            "type": "SPECTACLE",
+            "description": "Ah l'école !Après l’énorme succès de « Booder is back », booder a repris son cahier et son crayon quatre couleurs pour nous écrire un spectacle drôle et touchant sur l’école. De l’école de son enfance à celle de son fils aujourd’hui, il nous brosse avec humour le portrait du système scolaire. Un système scolaire en péril qui pourtant est la base du bien être de nos enfants. Tout y passe. Ses copains, le harcèlement scolaire, la récrée, ses profs.Connu pour les cours particuliers hilarants donnés à son fils,  Il revient avec, dans son cartable, un spectacle pour toute la famille.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg"
+        },
+        {
+            "date": "2025-05-16",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "STEF SANSEVERINO",
+            "type": "SPECTACLE",
+            "description": "À l’heure où j’écris ce petit descriptif de mon nouveau projet sur scène, il n’a pas encore de titre. L’album dont la fin de l’enregistrement date d’hier, n’est lui non plus ni mixé, ni titré,c’est pas sérieux… Par contre, ça joue sérieux !Les influences viennent un peu de l’Afrique, du blues des années 70 mais aussi du funk de la Nouvelle-Orléans.Au niveau des textes, j’avoue avoir totalement oublié de me censurer…- Stef Sanseverino",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_PORTRAIT_3_2.jpg"
+        },
+        {
+            "date": "2025-05-21",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "NAWELL MADANI",
+            "type": "SPECTACLE",
+            "description": "Entre charge mentale, notoriété et tentation du botox, Nawell revient plus mature que jamais pour son nouveau spectacle ! À une époque où tout va trop vite, cette touche-à-tout prend le temps de nous partager avec franchise et esprit les aléas de son quotidien. De ses défis. De ses défauts. Fini le bla-bla, Nawell prend les raccourcis.ATTENTION : Le spectacle est déconseillé aux moins de 16 ans.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/a/0fb/a8d0a38a-9b9f-482e-97ba-940b143230fb_SOURCE"
+        },
+        {
+            "date": "2025-05-28",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "J'AVAIS MA PETITE ROBE A FLEURS",
+            "type": "SPECTACLE",
+            "description": "Une société de production de télévision demande à Blanche Baillard de témoigner.Elle a trois jours pour raconter son histoire, seule chez elle, face à une caméra.Si elle est « convaincante » et « pertinente », elle pourra participer au direct et, devant des millions de téléspectateurs, raconter le pire événement de sa vie.Blanche Baillard croit que raconter va l'aider à oublier...",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+        },
+        {
+            "date": "2025-06-04",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "COMMENT NOUS NE SOMMES PAS DEVENUES",
+            "type": "SPECTACLE",
+            "description": null,
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+        },
+        {
+            "date": "2025-06-06",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "IZO FITZROY",
+            "type": "SPECTACLE",
+            "description": "LA GRANDE CHANTEUSE SOUL ET GOSPEL IZOFITZROY REVIENT AVEC A GOOD WOMAN SONALBUM LE PLUS INTIME ET LE PLUS PERSONNEL.Il s’agit d’un voyage spirituel.Le troisième et le plus personnel des albums de la star de la soul et du gospel Izo FitzRoy est une réflexion étonnante et puissante sur son parcours personnel.Un voyage qui commence par une déconnection d'elle-même à travers la dépression, pour finalement revenir lentement à elle-même. Récupérer ce que signifie pour elle être une femme aujourd'hui et comment cela se traduit de manière sonore pour elle en tant qu'artiste.Cet album emmène les chansons d'Izo vers un nouveau territoire qui est musicalement vibrant et extatique, avec des paroles allant de l'introspection à l'élévation spirituelle età l'autonomisation. La chanson-titre A Good Woman résume l'essence de l'album. Une prise sur ce que cela signifie d'être « une bonne femme » dans la société. Quelles étiquettes nous donne-t-onen tant que femmes, ou les rôles que nous estimons devoir remplir pour être considérées comme « bonnes » ou « réussies ».L'album est en partie autobiographique et jette un regard plus large sur le fait d'être une femme dans une industrie dominée par les hommes et de vivre dans une sociétépatriarcale. J'ai essayé d'examiner la myriade de façons dont les femmes (moi y compris) ont cédé leur autonomie et leur pouvoir aux institutions, aux labels et aux personnes ».La chanson d’ouverture Hope Divine est le début du voyage d'Izo dans sa reconstruction.Musicalement et lyriquement, il s'agit de revenir à la vie après une période d'intenses doutes de soi.Cela conduit à Chasing Days, un hymne estival optimiste et instantanément mémorable rendant hommage aux femmes motivées et ambitieuses du monde entier.La lumière et l'ombre musicales peuvent être vues avec l'ouverture de la face B God Gets A Little Busy Sometimes. Un piano obsédant et une voix puissante conduisent la première moitié de ce morceau avant que le groupe ne se révèle pour son apogée.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/48b/2352e3b5-8496-496b-97a3-e605177e848b_105851_CUSTOM.jpg"
+        },
+        {
+            "date": "2025-06-17",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "ORCHESTRE A VENTS DE LENS",
+            "type": "SPECTACLE",
+            "description": "L'Orchestre à Vents de Lens célébrera les 80 ans de la fin de la seconde guerre mondiale en rythme et en musique.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/0d2/1201f713-3288-4790-854a-ae42895450d2_105931_RETINA_PORTRAIT_16_9.jpg"
+        },
+        {
+            "date": "2025-09-26",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "THE JEFF PANACLOC COMPANY",
+            "type": "SPECTACLE",
+            "description": "Préparez-vous à franchir les portes du bureau secret de Jeff Panacloc et à plonger dans un univers où l'humour flirte avec l'absurde. Dans « The Jeff Panacloc Company », chaque personnage détraqué vous promet une soirée délirante et inoubliable. Rejoignez cette troupe fantastique et vivez une expérience immersive unique qui vous laissera transformé et léger.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_LANDSCAPE_16_9.jpg"
+        },
+        {
+            "date": "2025-10-09",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "NAIM",
+            "type": "SPECTACLE",
+            "description": "Après des millions de vues sur les réseaux sociaux avec ses vidéos “La semaine de Naïm” ,analyse piquante et pertinente de l’actualité, et le succès de son spectacle “Cauchy-Schwarz”, Naïm revient déjà sur scène avec son nouveau spectacle :“ Chapitre II “.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+        },
+        {
+            "date": "2025-10-11",
+            "heure": "20:00:00",
+            "duree": -1,
+            "nom": "BEN MAZUE",
+            "type": "SPECTACLE",
+            "description": "Un peu plus de 2 ans après la fin du Paradis Tour, Victoire de la Musique du meilleur concert en 2022, Ben Mazué revient avec un tout nouveau spectacle en 2025.",
+            "adresse": "THEATRE MUNICIPAL LE COLISEE",
+            "longitude": "2.830856",
+            "latitude": "50.428495",
+            "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_PORTRAIT_16_9.jpg"
+        },
+        {
+            "date": "2024-12-22",
+            "heure": "21:00",
+            "duree": -1,
+            "nom": "RC Lens - Paris SG",
+            "type": "MATCH",
+            "description": "Match RC Lens contre Paris SG",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/coupe_de_francelogo.png"
+        },
+        {
+            "date": "2024-08-22",
+            "heure": "21:00",
+            "duree": -1,
+            "nom": "RC Lens - Panathinaïkos",
+            "type": "MATCH",
+            "description": "Match RC Lens contre Panathinaïkos",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/conference-league.png"
+        },
+        {
+            "date": "2024-08-10",
+            "heure": "16:00",
+            "duree": -1,
+            "nom": "RC Lens - Leicester City FC",
+            "type": "MATCH",
+            "description": "Match RC Lens contre Leicester City FC",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/amic.png"
+        },
+        {
+            "date": "2025-01-26",
+            "heure": "17:15",
+            "duree": -1,
+            "nom": "RC Lens - Angers SCO",
+            "type": "MATCH",
+            "description": "Match RC Lens contre Angers SCO",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2025-04-06",
+            "heure": "15:00",
+            "duree": -1,
+            "nom": "RC Lens - AS Saint-Etienne",
+            "type": "MATCH",
+            "description": "Match RC Lens contre AS Saint-Etienne",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2025-04-27",
+            "heure": "15:00",
+            "duree": -1,
+            "nom": "RC Lens - AJ Auxerre",
+            "type": "MATCH",
+            "description": "Match RC Lens contre AJ Auxerre",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2025-03-02",
+            "heure": "15:00",
+            "duree": -1,
+            "nom": "RC Lens - Havre AC",
+            "type": "MATCH",
+            "description": "Match RC Lens contre Havre AC",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2025-02-16",
+            "heure": "15:00",
+            "duree": -1,
+            "nom": "RC Lens - RC Strasbourg Alsace",
+            "type": "MATCH",
+            "description": "Match RC Lens contre RC Strasbourg Alsace",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2024-12-08",
+            "heure": "15:00",
+            "duree": -1,
+            "nom": "RC Lens - Montpellier HSC",
+            "type": "MATCH",
+            "description": "Match RC Lens contre Montpellier HSC",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2025-01-05",
+            "heure": "15:00",
+            "duree": -1,
+            "nom": "RC Lens - Toulouse FC",
+            "type": "MATCH",
+            "description": "Match RC Lens contre Toulouse FC",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2025-03-16",
+            "heure": "15:00",
+            "duree": -1,
+            "nom": "RC Lens - Stade Rennais FC",
+            "type": "MATCH",
+            "description": "Match RC Lens contre Stade Rennais FC",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2025-04-13",
+            "heure": "15:00",
+            "duree": -1,
+            "nom": "RC Lens - Stade de Reims",
+            "type": "MATCH",
+            "description": "Match RC Lens contre Stade de Reims",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2024-11-23",
+            "heure": "17:00",
+            "duree": -1,
+            "nom": "RC Lens - Olympique de Marseille",
+            "type": "MATCH",
+            "description": "Match RC Lens contre Olympique de Marseille",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2024-09-15",
+            "heure": "20:45",
+            "duree": -1,
+            "nom": "RC Lens - Olympique Lyonnais",
+            "type": "MATCH",
+            "description": "Match RC Lens contre Olympique Lyonnais",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2024-09-28",
+            "heure": "17:00",
+            "duree": -1,
+            "nom": "RC Lens - OGC Nice",
+            "type": "MATCH",
+            "description": "Match RC Lens contre OGC Nice",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2024-10-26",
+            "heure": "21:00",
+            "duree": -1,
+            "nom": "RC Lens - LOSC Lille",
+            "type": "MATCH",
+            "description": "Match RC Lens contre LOSC Lille",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2024-08-25",
+            "heure": "15:00",
+            "duree": -1,
+            "nom": "RC Lens - Stade Brestois 29",
+            "type": "MATCH",
+            "description": "Match RC Lens contre Stade Brestois 29",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2025-05-17",
+            "heure": "21:00",
+            "duree": -1,
+            "nom": "RC Lens - AS Monaco FC",
+            "type": "MATCH",
+            "description": "Match RC Lens contre AS Monaco FC",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2025-01-18",
+            "heure": "17:00",
+            "duree": -1,
+            "nom": "RC Lens - Paris SG",
+            "type": "MATCH",
+            "description": "Match RC Lens contre Paris SG",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/ligue1_mcdonalds.png"
+        },
+        {
+            "date": "2024-08-03",
+            "heure": "16:00",
+            "duree": -1,
+            "nom": "RC Lens - Bayer 04 Leverkusen",
+            "type": "MATCH",
+            "description": "Match RC Lens contre Bayer 04 Leverkusen",
+            "adresse": "Stade Bollaert-Delelis",
+            "longitude": 2.81497,
+            "latitude": 50.43285,
+            "image": "https://www.rclens.fr/sites/default/files/amic.png"
+        }
+    ]
+}
