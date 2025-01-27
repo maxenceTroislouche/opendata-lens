@@ -1,6 +1,23 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
 
-<a href="/events"><button>Evenements</button></a>
+<script lang="ts">
 
-<a href="/map"><button>Carte</button></a>
+</script>
+
+<h1 class="p-4 text-center">Opendata Lens</h1>
+
+<div class="flex flex-col gap-4 p-4 ml-40 mr-40">
+	<a
+		href="/map"
+		class="inline-block rounded-lg bg-blue-500 px-6 py-3 text-center font-bold text-white shadow hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-300"
+	>
+		Carte intéractive
+	</a>
+
+	<a
+		href="/events"
+		class="inline-block rounded-lg bg-blue-500 px-6 py-3 text-center font-bold text-white shadow hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-300"
+	>
+		Evenements
+	</a>
+</div>
+
