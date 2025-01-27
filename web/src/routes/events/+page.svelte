@@ -7,7 +7,7 @@
 	let data = $state<Data>();
 
 	onMount(async () => {
-		let response = await fetch('/data.json');
+		let response = await fetch(`${base}/data.json`);
 		data = await response.json();
 	});
 </script>

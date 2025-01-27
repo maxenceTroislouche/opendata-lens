@@ -3,6 +3,7 @@
 	import Map from '@/components/Map.svelte';
 	import { type Data } from '@/data';
 	import { Slider } from '@/components/ui/slider';
+	import { base } from '$app/paths';
 
 	let data = $state<Data>();
 	let selectedEventIndex = $state<string>('');
@@ -10,7 +11,7 @@
 	let filteredCommerces = $derived(filterCommerces(data, selectedEventIndex, distance));
 
 	onMount(async () => {
-		let response = await fetch('/data.json');
+		let response = await fetch(`${base}/data.json`);
 		data = await response.json();
 	});
 
