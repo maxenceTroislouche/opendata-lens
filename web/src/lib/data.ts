@@ -45,3 +45,23 @@ export function structureEvenementMarkers(data: Data): {
 		name: evenement.nom
 	}));
 }
+
+export function structureEventsData(data: Data): {
+	date: string;
+	heure: string;
+	nom: string;
+	description: string;
+	type: string;
+	adresse: string;
+	image: string;
+}[] {
+	return data.evenement.map((event) => ({
+		date: event.date,
+		heure: event.heure,
+		nom: event.nom,
+		description: event.description,
+		type: event.type,
+		adresse: event.adresse,
+		image: event.image
+	}));
+}
