@@ -14,6 +14,9 @@ const config = {
 		adapter: adapter(),
 		alias: {
 			"@/*": "./src/lib/*",
+		},
+		paths: {
+			base: process.argv.includes('dev') ? '' : '/opendata-lens'
 		}
 	}
 };
